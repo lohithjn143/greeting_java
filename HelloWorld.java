@@ -16,6 +16,11 @@ public class HelloWorld {
 
     System.out.println("Hello Mysore");
 
+
+   
+    System.out.println("Hello mangalore");
+
+
   }
   
 }
